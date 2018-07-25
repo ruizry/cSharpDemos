@@ -1,0 +1,7 @@
+C:\Users\Rybear\source\repos\cSharpMathDemo\cSharpMathDemo\bin\Debug\cSharpMathDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpMathDemo\cSharpMathDemo\bin\Debug\cSharpMathDemo.exe
+C:\Users\Rybear\source\repos\cSharpMathDemo\cSharpMathDemo\bin\Debug\cSharpMathDemo.pdb
+C:\Users\Rybear\source\repos\cSharpMathDemo\cSharpMathDemo\obj\Debug\cSharpMathDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpMathDemo\cSharpMathDemo\obj\Debug\cSharpMathDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpMathDemo\cSharpMathDemo\obj\Debug\cSharpMathDemo.exe
+C:\Users\Rybear\source\repos\cSharpMathDemo\cSharpMathDemo\obj\Debug\cSharpMathDemo.pdb
