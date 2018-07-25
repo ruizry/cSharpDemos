@@ -1,0 +1,7 @@
+C:\Users\Rybear\source\repos\cSharpLogicDemo\cSharpLogicDemo\bin\Debug\cSharpLogicDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpLogicDemo\cSharpLogicDemo\bin\Debug\cSharpLogicDemo.exe
+C:\Users\Rybear\source\repos\cSharpLogicDemo\cSharpLogicDemo\bin\Debug\cSharpLogicDemo.pdb
+C:\Users\Rybear\source\repos\cSharpLogicDemo\cSharpLogicDemo\obj\Debug\cSharpLogicDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpLogicDemo\cSharpLogicDemo\obj\Debug\cSharpLogicDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpLogicDemo\cSharpLogicDemo\obj\Debug\cSharpLogicDemo.exe
+C:\Users\Rybear\source\repos\cSharpLogicDemo\cSharpLogicDemo\obj\Debug\cSharpLogicDemo.pdb
