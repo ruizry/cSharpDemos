@@ -1,0 +1,14 @@
+C:\Users\Rybear\source\repos\cSharpWhileDemo\cSharpWhileDemo\bin\Debug\cSharpWhileDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpWhileDemo\cSharpWhileDemo\bin\Debug\cSharpWhileDemo.exe
+C:\Users\Rybear\source\repos\cSharpWhileDemo\cSharpWhileDemo\bin\Debug\cSharpWhileDemo.pdb
+C:\Users\Rybear\source\repos\cSharpWhileDemo\cSharpWhileDemo\obj\Debug\cSharpWhileDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpWhileDemo\cSharpWhileDemo\obj\Debug\cSharpWhileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpWhileDemo\cSharpWhileDemo\obj\Debug\cSharpWhileDemo.exe
+C:\Users\Rybear\source\repos\cSharpWhileDemo\cSharpWhileDemo\obj\Debug\cSharpWhileDemo.pdb
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpWhileDemo\cSharpWhileDemo\bin\Debug\cSharpWhileDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpWhileDemo\cSharpWhileDemo\bin\Debug\cSharpWhileDemo.exe
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpWhileDemo\cSharpWhileDemo\bin\Debug\cSharpWhileDemo.pdb
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpWhileDemo\cSharpWhileDemo\obj\Debug\cSharpWhileDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpWhileDemo\cSharpWhileDemo\obj\Debug\cSharpWhileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpWhileDemo\cSharpWhileDemo\obj\Debug\cSharpWhileDemo.exe
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpWhileDemo\cSharpWhileDemo\obj\Debug\cSharpWhileDemo.pdb
