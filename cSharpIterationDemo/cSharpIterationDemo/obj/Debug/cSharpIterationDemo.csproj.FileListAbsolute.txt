@@ -5,3 +5,10 @@ C:\Users\Rybear\source\repos\cSharpIterationDemo\cSharpIterationDemo\obj\Debug\c
 C:\Users\Rybear\source\repos\cSharpIterationDemo\cSharpIterationDemo\obj\Debug\cSharpIterationDemo.csproj.CoreCompileInputs.cache
 C:\Users\Rybear\source\repos\cSharpIterationDemo\cSharpIterationDemo\obj\Debug\cSharpIterationDemo.exe
 C:\Users\Rybear\source\repos\cSharpIterationDemo\cSharpIterationDemo\obj\Debug\cSharpIterationDemo.pdb
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpIterationDemo\cSharpIterationDemo\bin\Debug\cSharpIterationDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpIterationDemo\cSharpIterationDemo\bin\Debug\cSharpIterationDemo.exe
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpIterationDemo\cSharpIterationDemo\bin\Debug\cSharpIterationDemo.pdb
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpIterationDemo\cSharpIterationDemo\obj\Debug\cSharpIterationDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpIterationDemo\cSharpIterationDemo\obj\Debug\cSharpIterationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpIterationDemo\cSharpIterationDemo\obj\Debug\cSharpIterationDemo.exe
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpIterationDemo\cSharpIterationDemo\obj\Debug\cSharpIterationDemo.pdb

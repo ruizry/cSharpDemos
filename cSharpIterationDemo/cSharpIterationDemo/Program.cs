@@ -15,6 +15,7 @@ namespace cSharpIterationDemo
 
             string[] strArray = new string[] { "-cat", "-dog", "-lizard", "-parrot", "-rabbit", "-frog" };
 
+            /* Question 1 */
             Console.WriteLine("Please enter a name for a pet:");
             userinput = Console.ReadLine();
 
@@ -24,6 +25,7 @@ namespace cSharpIterationDemo
                 Console.WriteLine("Pet " + iteration + ": " + userinput + strArray[iteration]);
             }
 
+            /* Questions 2 and 3 */
             Console.WriteLine("\nHere is a demo of an infinite loop");
             Console.WriteLine("This loop will fix itself after 2000 iterations, press enter to start and please wait");
             Console.ReadLine();
@@ -39,6 +41,7 @@ namespace cSharpIterationDemo
 
             Console.WriteLine("Out of infinite loop");
 
+            /* Question 4 */
             Console.WriteLine("\nDemo for < comparator to list array index values, press enter to start");
             Console.ReadLine();
 
@@ -47,6 +50,7 @@ namespace cSharpIterationDemo
                 Console.WriteLine("strArray index: " + iteration + " value: " + strArray[iteration]);
             }
 
+            /* Question 5 */
             Console.WriteLine("\nDemo for <= comparator to count all elements in the array, press enter to start");
             Console.ReadLine();
 
@@ -63,6 +67,7 @@ namespace cSharpIterationDemo
             stringList.Add("vegetarian");
             stringList.Add("shrimp");
 
+            /* Questions 6 - 8 */
             iteration = 0;
             Console.WriteLine("\nDemo for using iteration to search through a list with unique values");
             Console.WriteLine("Below is the contents of the list\n");
@@ -106,6 +111,7 @@ namespace cSharpIterationDemo
             stringList2.Add("vegetarian");
             stringList2.Add("shrimp");
 
+            /* Questions 9 and 10 */
             iteration = 0;
             Console.WriteLine("\nDemo for using iteration to search through a list with some repeated values");
             Console.WriteLine("Below is the contents of the list\n");
@@ -143,7 +149,7 @@ namespace cSharpIterationDemo
                 Console.WriteLine("Element not found anywhere in list");
 
             /*
-            foreach exercise here
+             Question 11
             */
             Console.WriteLine("\n\nDemo using foreach to iterate through a list, press enter to start");
             Console.ReadLine();
