@@ -5,3 +5,10 @@ C:\Users\Rybear\source\repos\cSharpStringDemo\cSharpStringDemo\obj\Debug\cSharpS
 C:\Users\Rybear\source\repos\cSharpStringDemo\cSharpStringDemo\obj\Debug\cSharpStringDemo.csproj.CoreCompileInputs.cache
 C:\Users\Rybear\source\repos\cSharpStringDemo\cSharpStringDemo\obj\Debug\cSharpStringDemo.exe
 C:\Users\Rybear\source\repos\cSharpStringDemo\cSharpStringDemo\obj\Debug\cSharpStringDemo.pdb
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpStringDemo\cSharpStringDemo\bin\Debug\cSharpStringDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpStringDemo\cSharpStringDemo\bin\Debug\cSharpStringDemo.exe
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpStringDemo\cSharpStringDemo\bin\Debug\cSharpStringDemo.pdb
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpStringDemo\cSharpStringDemo\obj\Debug\cSharpStringDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpStringDemo\cSharpStringDemo\obj\Debug\cSharpStringDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpStringDemo\cSharpStringDemo\obj\Debug\cSharpStringDemo.exe
+C:\Users\Rybear\source\repos\cSharpDemos\cSharpStringDemo\cSharpStringDemo\obj\Debug\cSharpStringDemo.pdb

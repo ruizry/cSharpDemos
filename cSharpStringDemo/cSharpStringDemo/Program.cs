@@ -12,10 +12,9 @@ namespace cSharpStringDemo
         {
             int i = 1;
             string catdemo = "";
+            bool repeat = true;
             StringBuilder paragraph = new StringBuilder();
             StringBuilder sentence = new StringBuilder();
-            StringBuilder exit = new StringBuilder();
-            exit.Append("exit");
 
             Console.WriteLine("Please enter 3 strings to concatenate. The second will be entered as all caps.");
             while (i <= 3)
@@ -36,16 +35,22 @@ namespace cSharpStringDemo
             Console.WriteLine("Paragraph builder: Enter 1 sentence at a time");
             Console.WriteLine("Enter a sentence or type exit to finish");
             sentence.Append(Console.ReadLine());
-            while (!sentence.Equals(exit))
+            while (repeat)
             {
                 paragraph.Append(sentence);
                 paragraph.Append(" ");
                 sentence.Clear();
                 Console.WriteLine("Enter a sentence or type exit to finish");
                 sentence.Append(Console.ReadLine());
+                if (sentence.ToString() == "exit")
+                {
+                    repeat = false;
+                }
             }
             Console.WriteLine("Resulting paragraph:");
             Console.WriteLine(paragraph);
+
+            Console.WriteLine("\nEnd of program, push enter to exit");
             Console.ReadLine();
         }
     }
