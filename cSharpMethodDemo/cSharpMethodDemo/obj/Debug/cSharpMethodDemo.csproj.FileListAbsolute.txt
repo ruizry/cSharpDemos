@@ -1,0 +1,7 @@
+C:\Users\Rybear\source\repos\cSharpMethodDemo\cSharpMethodDemo\bin\Debug\cSharpMethodDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpMethodDemo\cSharpMethodDemo\bin\Debug\cSharpMethodDemo.exe
+C:\Users\Rybear\source\repos\cSharpMethodDemo\cSharpMethodDemo\bin\Debug\cSharpMethodDemo.pdb
+C:\Users\Rybear\source\repos\cSharpMethodDemo\cSharpMethodDemo\obj\Debug\cSharpMethodDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpMethodDemo\cSharpMethodDemo\obj\Debug\cSharpMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpMethodDemo\cSharpMethodDemo\obj\Debug\cSharpMethodDemo.exe
+C:\Users\Rybear\source\repos\cSharpMethodDemo\cSharpMethodDemo\obj\Debug\cSharpMethodDemo.pdb
