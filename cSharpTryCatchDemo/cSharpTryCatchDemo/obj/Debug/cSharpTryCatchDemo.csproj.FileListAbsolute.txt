@@ -1,0 +1,7 @@
+C:\Users\Rybear\source\repos\cSharpTryCatchDemo\cSharpTryCatchDemo\bin\Debug\cSharpTryCatchDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpTryCatchDemo\cSharpTryCatchDemo\bin\Debug\cSharpTryCatchDemo.exe
+C:\Users\Rybear\source\repos\cSharpTryCatchDemo\cSharpTryCatchDemo\bin\Debug\cSharpTryCatchDemo.pdb
+C:\Users\Rybear\source\repos\cSharpTryCatchDemo\cSharpTryCatchDemo\obj\Debug\cSharpTryCatchDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpTryCatchDemo\cSharpTryCatchDemo\obj\Debug\cSharpTryCatchDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpTryCatchDemo\cSharpTryCatchDemo\obj\Debug\cSharpTryCatchDemo.exe
+C:\Users\Rybear\source\repos\cSharpTryCatchDemo\cSharpTryCatchDemo\obj\Debug\cSharpTryCatchDemo.pdb
