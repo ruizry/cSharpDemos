@@ -17,6 +17,9 @@ namespace inheritanceDemo
 
             newEmployee.SayName();
 
+            Console.WriteLine("\nCalling method Quit inherited from IQuittable");
+            newEmployee.Quit();
+
             Console.WriteLine("\nEnd of the program, press enter to exit");
             Console.ReadLine();
         }

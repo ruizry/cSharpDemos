@@ -5,3 +5,10 @@ C:\Users\Rybear\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\inheritan
 C:\Users\Rybear\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\inheritanceDemo.csproj.CoreCompileInputs.cache
 C:\Users\Rybear\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\inheritanceDemo.exe
 C:\Users\Rybear\source\repos\inheritanceDemo\inheritanceDemo\obj\Debug\inheritanceDemo.pdb
+C:\Users\Rybear\source\repos\cSharpDemos\inheritanceDemo\inheritanceDemo\bin\Debug\inheritanceDemo.exe.config
+C:\Users\Rybear\source\repos\cSharpDemos\inheritanceDemo\inheritanceDemo\bin\Debug\inheritanceDemo.exe
+C:\Users\Rybear\source\repos\cSharpDemos\inheritanceDemo\inheritanceDemo\bin\Debug\inheritanceDemo.pdb
+C:\Users\Rybear\source\repos\cSharpDemos\inheritanceDemo\inheritanceDemo\obj\Debug\inheritanceDemo.csprojAssemblyReference.cache
+C:\Users\Rybear\source\repos\cSharpDemos\inheritanceDemo\inheritanceDemo\obj\Debug\inheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rybear\source\repos\cSharpDemos\inheritanceDemo\inheritanceDemo\obj\Debug\inheritanceDemo.exe
+C:\Users\Rybear\source\repos\cSharpDemos\inheritanceDemo\inheritanceDemo\obj\Debug\inheritanceDemo.pdb
